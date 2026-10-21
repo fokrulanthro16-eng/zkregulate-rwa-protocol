@@ -1,0 +1,48 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# next.js build
+/.next/
+/out/
+/build
+
+# testing & coverage
+/coverage
+
+# environment files (ignore local keys, keep clean example)
+.env*
+!.env.example
+
+# large raw film production media & audio stems (keep repo under GitHub 100MB limit)
+film-production/
+*.mp4
+*.wav
+*.mp3
+*.mov
+*.m4v
+
+# explicitly track documentation screenshots and static assets
+!docs/
+!docs/screenshots/
+!docs/screenshots/*.png
+!public/
+
+# system files
+.DS_Store
+Thumbs.db
+*.pem
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.vercel
