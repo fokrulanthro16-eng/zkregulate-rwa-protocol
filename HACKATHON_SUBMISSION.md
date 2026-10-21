@@ -1,8 +1,9 @@
 # zkRegulate — Hackathon Submission & Pitch Dossier
 
 > **Project Name:** zkRegulate: Privacy-Preserving RWA & Soulbound Compliance Passport Protocol  
-> **Repository:** [github.com/fokrulanthro16-eng/zkregulate-rwa-protocol](https://github.com/fokrulanthro16-eng/zkregulate-rwa-protocol)  
+> **Live Production App:** [https://rushing-zircon-mcxnvpc.tmp.now](https://rushing-zircon-mcxnvpc.tmp.now)  
 > **Official Video Walkthrough:** [https://youtu.be/FgSjbgW8bSA](https://youtu.be/FgSjbgW8bSA)  
+> **Repository:** [github.com/fokrulanthro16-eng/zkregulate-rwa-protocol](https://github.com/fokrulanthro16-eng/zkregulate-rwa-protocol)  
 > **Track:** Zero-Knowledge Cryptography / Real World Assets (RWA) / LegalTech & RegTech
 
 ---

@@ -3,28 +3,34 @@
 # zkRegulate
 ### Privacy-Preserving Real-World Asset (RWA) & Soulbound Compliance Passport Protocol
 
+[![Live App on Vercel](https://img.shields.io/badge/Vercel-Live%20Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rushing-zircon-mcxnvpc.tmp.now)
+[![YouTube Film](https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/FgSjbgW8bSA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Circom 2.1.6](https://img.shields.io/badge/Circom-2.1.6-yellow?style=for-the-badge&logo=circuitverse)](contracts/ZKComplianceVerifier.circom)
 [![Groth16 BN128](https://img.shields.io/badge/ZK--SNARK-Groth16%20BN128-blueviolet?style=for-the-badge)](contracts/ZKComplianceVerifier.circom)
 [![ERC-5192](https://img.shields.io/badge/Standard-ERC--5192%20Soulbound-emerald?style=for-the-badge)](contracts/ZKCompliancePassport.sol)
 [![ERC-3643](https://img.shields.io/badge/Standard-ERC--3643%20RWA-indigo?style=for-the-badge)](contracts/RegulatedRWAToken.sol)
 [![EIP-712](https://img.shields.io/badge/Signatures-EIP--712%20Typed-orange?style=for-the-badge)](lib/zk-crypto.ts)
-[![Next.js 15](https://img.shields.io/badge/Frontend-Next.js%2015-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
+[![Next.js 16](https://img.shields.io/badge/Frontend-Next.js%2016-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
 [![Multi-AI Router](https://img.shields.io/badge/AI%20Engine-Nebius%20%7C%20Gemini%20%7C%20HF-cyan?style=for-the-badge)](lib/ai-compliance-router.ts)
 
 **Privacy Preserved. Compliance Proven.**
 
-[Official YouTube Video Demo](https://youtu.be/FgSjbgW8bSA) • [Architecture Specification](ARCHITECTURE.md) • [Security & Threat Model](SECURITY.md) • [Hackathon Submission](HACKATHON_SUBMISSION.md)
+[🌐 Live Vercel Production App](https://rushing-zircon-mcxnvpc.tmp.now) • [🎥 Official YouTube Video Demo](https://youtu.be/FgSjbgW8bSA) • [Architecture Specification](ARCHITECTURE.md) • [Security & Threat Model](SECURITY.md) • [Hackathon Submission](HACKATHON_SUBMISSION.md)
 
 </div>
 
 ---
 
-## 📺 Official Product Walkthrough & Video Demonstration
+## 🌐 Live Production Deployment & Video Demonstration
 
-[![Watch the zkRegulate Institutional Product Film](https://img.shields.io/badge/YouTube-Watch%20Official%20Film%20(2%20Min)-red?style=for-the-badge&logo=youtube)](https://youtu.be/FgSjbgW8bSA)
+| Channel | Link | Status |
+| :--- | :--- | :--- |
+| **Live Web Application (Vercel)** | **[https://rushing-zircon-mcxnvpc.tmp.now](https://rushing-zircon-mcxnvpc.tmp.now)** | 🟢 **100% Operational (HTTP 200)** |
+| **Official 2-Minute Cinematic Product Film** | **[https://youtu.be/FgSjbgW8bSA](https://youtu.be/FgSjbgW8bSA)** | 🎥 **4K Widescreen with Voice-Over** |
+| **GitHub Open-Source Repository** | **[github.com/fokrulanthro16-eng/zkregulate-rwa-protocol](https://github.com/fokrulanthro16-eng/zkregulate-rwa-protocol)** | 🏛️ **MIT Licensed** |
 
-> 🎥 **Click above or visit [https://youtu.be/FgSjbgW8bSA](https://youtu.be/FgSjbgW8bSA)** to watch the institutional walkthrough covering end-to-end off-chain AI statutory verification, Circom Groth16 witness synthesis, ERC-5192 Soulbound minting, and Delaware Court of Chancery stay order enforcement.
+> 💡 **Hackathon Judges:** Open **[https://rushing-zircon-mcxnvpc.tmp.now](https://rushing-zircon-mcxnvpc.tmp.now)** to test the full live protocol in your browser with zero gas fees (uses our deterministic in-memory EVM engine) or connect your MetaMask wallet on any EVM testnet.
 
 ---
 
