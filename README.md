@@ -3,8 +3,9 @@
 # zkRegulate
 ### Privacy-Preserving Real-World Asset (RWA) & Soulbound Compliance Passport Protocol
 
-[![Live App on Vercel](https://img.shields.io/badge/Vercel-Live%20Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rushing-zircon-mcxnvpc.tmp.now)
+[![Live App on Vercel](https://img.shields.io/badge/Vercel-Live%20Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zkregulate-rwa-protocol.vercel.app)
 [![YouTube Film](https://img.shields.io/badge/YouTube-Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/FgSjbgW8bSA)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fokrulanthro16-eng/zkregulate-rwa-protocol)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Circom 2.1.6](https://img.shields.io/badge/Circom-2.1.6-yellow?style=for-the-badge&logo=circuitverse)](contracts/ZKComplianceVerifier.circom)
 [![Groth16 BN128](https://img.shields.io/badge/ZK--SNARK-Groth16%20BN128-blueviolet?style=for-the-badge)](contracts/ZKComplianceVerifier.circom)
@@ -16,7 +17,7 @@
 
 **Privacy Preserved. Compliance Proven.**
 
-[🌐 Live Vercel Production App](https://rushing-zircon-mcxnvpc.tmp.now) • [🎥 Official YouTube Video Demo](https://youtu.be/FgSjbgW8bSA) • [Architecture Specification](ARCHITECTURE.md) • [Security & Threat Model](SECURITY.md) • [Hackathon Submission](HACKATHON_SUBMISSION.md)
+[🚀 Live App (Vercel)](https://zkregulate-rwa-protocol.vercel.app) • [📺 Video Demo (YouTube)](https://youtu.be/FgSjbgW8bSA) • [📂 GitHub Repository](https://github.com/fokrulanthro16-eng/zkregulate-rwa-protocol) • [Architecture Specification](ARCHITECTURE.md) • [Security & Threat Model](SECURITY.md) • [Hackathon Submission](HACKATHON_SUBMISSION.md)
 
 </div>
 
@@ -26,11 +27,11 @@
 
 | Channel | Link | Status |
 | :--- | :--- | :--- |
-| **Live Web Application (Vercel)** | **[https://rushing-zircon-mcxnvpc.tmp.now](https://rushing-zircon-mcxnvpc.tmp.now)** | 🟢 **100% Operational (HTTP 200)** |
+| **Live Web Application (Vercel)** | **[https://zkregulate-rwa-protocol.vercel.app](https://zkregulate-rwa-protocol.vercel.app)** | 🟢 **100% Operational (HTTP 200)** |
 | **Official 2-Minute Cinematic Product Film** | **[https://youtu.be/FgSjbgW8bSA](https://youtu.be/FgSjbgW8bSA)** | 🎥 **4K Widescreen with Voice-Over** |
-| **GitHub Open-Source Repository** | **[github.com/fokrulanthro16-eng/zkregulate-rwa-protocol](https://github.com/fokrulanthro16-eng/zkregulate-rwa-protocol)** | 🏛️ **MIT Licensed** |
+| **GitHub Open-Source Repository** | **[https://github.com/fokrulanthro16-eng/zkregulate-rwa-protocol](https://github.com/fokrulanthro16-eng/zkregulate-rwa-protocol)** | 🏛️ **MIT Licensed** |
 
-> 💡 **Hackathon Judges:** Open **[https://rushing-zircon-mcxnvpc.tmp.now](https://rushing-zircon-mcxnvpc.tmp.now)** to test the full live protocol in your browser with zero gas fees (uses our deterministic in-memory EVM engine) or connect your MetaMask wallet on any EVM testnet.
+> 💡 **Hackathon Judges:** Open **[https://zkregulate-rwa-protocol.vercel.app](https://zkregulate-rwa-protocol.vercel.app)** to test the full live protocol in your browser with zero gas fees (uses our deterministic in-memory EVM engine) or connect your MetaMask wallet on any EVM testnet.
 
 ---
 

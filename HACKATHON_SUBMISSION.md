@@ -1,9 +1,9 @@
 # zkRegulate — Hackathon Submission & Pitch Dossier
 
 > **Project Name:** zkRegulate: Privacy-Preserving RWA & Soulbound Compliance Passport Protocol  
-> **Live Production App:** [https://rushing-zircon-mcxnvpc.tmp.now](https://rushing-zircon-mcxnvpc.tmp.now)  
-> **Official Video Walkthrough:** [https://youtu.be/FgSjbgW8bSA](https://youtu.be/FgSjbgW8bSA)  
-> **Repository:** [github.com/fokrulanthro16-eng/zkregulate-rwa-protocol](https://github.com/fokrulanthro16-eng/zkregulate-rwa-protocol)  
+> **Live Demo URL:** [https://zkregulate-rwa-protocol.vercel.app](https://zkregulate-rwa-protocol.vercel.app)  
+> **Video Demo URL:** [https://youtu.be/FgSjbgW8bSA](https://youtu.be/FgSjbgW8bSA)  
+> **GitHub Repository:** [https://github.com/fokrulanthro16-eng/zkregulate-rwa-protocol](https://github.com/fokrulanthro16-eng/zkregulate-rwa-protocol)  
 > **Track:** Zero-Knowledge Cryptography / Real World Assets (RWA) / LegalTech & RegTech
 
 ---
@@ -72,7 +72,7 @@ Hackathon judges can test the full protocol locally in under 60 seconds:
    npm install
    npm run dev
    ```
-2. **Open Dashboard:** Navigate to `http://localhost:3000`.
+2. **Open Dashboard:** Navigate to `http://localhost:3000` or test the live deployment at [https://zkregulate-rwa-protocol.vercel.app](https://zkregulate-rwa-protocol.vercel.app).
 3. **Stage 1 (AI RegTech):** Click *"PII Redaction X-Ray"* to view real-time data scrubbing, then click *"Run AI Legal Verification"*.
 4. **Stage 2 (ZK Cryptography):** Click *"Generate ZK-SNARK Proof"*. Inspect the live Groth16 pairing check (~214k gas). Click *"Simulate Witness Tampering Attack"* to verify that corrupting a single byte causes the bilinear pairing to fail immediately.
 5. **Stage 3 (Soulbound Passport):** Click *"Mint Soulbound Compliance Passport"*. Click *"Attempt Illegal Transfer"* to watch the ERC-5192 transfer lock revert on-chain.
